@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class PersonCard extends React.Component {
+class PersonCard extends Component {
     render() {
         return (
             <malak>
